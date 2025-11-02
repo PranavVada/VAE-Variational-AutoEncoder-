@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/REPO_USER/REPO_NAME/blob/main/VAE_Colab_Annotated.ipynb)
-
 # Variational Autoencoder (VAE) in PyTorch
 
 A clean, Colab-ready notebook implementing a Variational Autoencoder (VAE) with a standard ELBO objective (reconstruction + KL). This repository is structured for GitHub with clear sections, comments, and instructions.
